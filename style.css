@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+background-color: darkolivegreen;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    border: 5px solid;
+    background-color: darkgrey;
+    color: beige;
+}
+
+a{
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 15px;
+
+}
